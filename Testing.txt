@@ -1,1 +1,6 @@
 changed name 
+---- compare main and master on git --
+git checkout [BRANCH]   
+git branch master [BRANCH] -f   
+git checkout master   
+git push origin master -f
